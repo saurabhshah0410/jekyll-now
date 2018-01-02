@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a student of the Mathematics Department of IIT Delhi. I'm studying my 4th semester for the first time(hopefully last time too :p). This is my users website I built using this really simple thing - Github Pages. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+My areas of interest include Mathematics, particularly Number Theory. Apart from that, I like coding and eating. 
 ### Contact me
 
 [saurabhshah.0410@gmail.com](mailto:saurabhshah.0410@gmail.com)
